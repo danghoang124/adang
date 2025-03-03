@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DacOrigin xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <PackageProperties>
+    <Version>3.1.0.0</Version>
+    <ContainsExportedData>true</ContainsExportedData>
+    <StreamVersions>
+      <Version StreamName="Data">2.0.0.0</Version>
+      <Version StreamName="DeploymentContributors">1.0.0.0</Version>
+    </StreamVersions>
+  </PackageProperties>
+  <Operation>
+    <Identity>b53d1650-d2a6-4b0a-aa49-1132ae84b449</Identity>
+    <Start>2024-02-15T09:43:38.2628890+07:00</Start>
+    <End>0001-01-01T00:00:00.0000000</End>
+    <ProductName>Microsoft.SqlServer.Dac, Version=16.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</ProductName>
+    <ProductVersion>16.0.6228.0</ProductVersion>
+    <ProductSchema>http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02</ProductSchema>
+  </Operation>
+  <Server>
+    <ServerVersion>Microsoft SQL Server 2019 (RTM) - 15.0.2000.5 (X64) 
+	Sep 24 2019 13:48:23 
+	Copyright (C) 2019 Microsoft Corporation
+	Developer Edition (64-bit) on Windows 10 Home Single Language 10.0 &lt;X64&gt; (Build 22621: )
+</ServerVersion>
+    <ObjectCounts>
+      <ComputedColumn>4</ComputedColumn>
+      <DatabaseOptions>1</DatabaseOptions>
+      <DmlTrigger>1</DmlTrigger>
+      <ForeignKeyConstraint>9</ForeignKeyConstraint>
+      <InlineTableValuedFunction>1</InlineTableValuedFunction>
+      <MultiStatementTableValuedFunction>4</MultiStatementTableValuedFunction>
+      <PermissionStatement>2</PermissionStatement>
+      <PrimaryKeyConstraint>7</PrimaryKeyConstraint>
+      <Procedure>5</Procedure>
+      <ScalarFunction>3</ScalarFunction>
+      <ScriptFunctionImplementation>8</ScriptFunctionImplementation>
+      <SimpleColumn>44</SimpleColumn>
+      <SubroutineParameter>14</SubroutineParameter>
+      <Table>7</Table>
+    </ObjectCounts>
+  </Server>
+  <ExportStatistics>
+    <SourceDatabaseSize>11384</SourceDatabaseSize>
+    <TableRowCountTotalTag>93</TableRowCountTotalTag>
+  </ExportStatistics>
+  <Checksums>
+    <Checksum Uri="/model.xml">E6DF93AE55BCAF6C582CDE5956DF6708B98878504780FFC84996D42E8DDFF229</Checksum>
+  </Checksums>
+  <ModelSchemaVersion>2.9</ModelSchemaVersion>
+</DacOrigin>
